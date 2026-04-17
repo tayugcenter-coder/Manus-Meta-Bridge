@@ -1,4 +1,3 @@
-text
 flask
 requests
 gunicorn
